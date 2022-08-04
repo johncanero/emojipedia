@@ -27,7 +27,7 @@ const Entry = () => {
         <dl className="dictionary">
 
             {/* SECOND METHOD */}
-            {/* <Card 
+            <Card 
                 emoji={emojipedia[0].emoji}
                 name={emojipedia[0].name}
                 meaning={emojipedia[0].meaning}
@@ -43,7 +43,7 @@ const Entry = () => {
                 emoji={emojipedia[2].emoji}
                 name={emojipedia[2].name}
                 meaning={emojipedia[2].meaning}
-            /> */}
+            />
 
 
 
