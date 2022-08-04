@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/emojipedia/static/css/main.efaad8f1.css",
-    "main.js": "/emojipedia/static/js/main.898bc43d.js",
+    "main.css": "/emojipedia/static/css/main.a87c2930.css",
+    "main.js": "/emojipedia/static/js/main.c657f105.js",
     "static/js/787.c8c0b223.chunk.js": "/emojipedia/static/js/787.c8c0b223.chunk.js",
     "index.html": "/emojipedia/index.html",
-    "main.efaad8f1.css.map": "/emojipedia/static/css/main.efaad8f1.css.map",
-    "main.898bc43d.js.map": "/emojipedia/static/js/main.898bc43d.js.map",
+    "main.a87c2930.css.map": "/emojipedia/static/css/main.a87c2930.css.map",
+    "main.c657f105.js.map": "/emojipedia/static/js/main.c657f105.js.map",
     "787.c8c0b223.chunk.js.map": "/emojipedia/static/js/787.c8c0b223.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efaad8f1.css",
-    "static/js/main.898bc43d.js"
+    "static/css/main.a87c2930.css",
+    "static/js/main.c657f105.js"
   ]
 }
