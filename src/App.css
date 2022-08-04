@@ -11,13 +11,13 @@ h1 {
   font-size: 500%;
   text-align: center;
   margin-top: 4rem;
-  color: #fff;
+  color: #2aedffea;
   line-height: 1.2;
+  text-shadow: 1px 8px 1px #7c02ff97;
 }
 
 h1 span {
   padding: 5px 15px;
-  background: #2ec2b0;
 }
 
 .dictionary {
@@ -34,7 +34,7 @@ h1 span {
   margin-bottom: 3rem;
   padding: 2rem;
   border-radius: 3px;
-  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 0 #ad42ff, 0 5px 20px #2aedffea;
   background-color: #fff;
   transition: all 100ms ease-in-out;
 }
@@ -44,7 +44,7 @@ h1 span {
 }
 
 dt {
-  color: #2ec2b0;
+  color: #ad42ff;
   line-height: 1;
 }
 

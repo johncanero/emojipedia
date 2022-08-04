@@ -40,6 +40,27 @@ const emojipedia = [
       name: "Dog Face ",
       meaning:
         "A sweet dog face with a panting tongue and floppy ears. Stands for unconditional loyalty and attention. Can refer to your own pet (“I love my dog.“) or to people (“You sly dog!“)."
+    },
+    {
+      id: 7,
+      emoji: "🥑",
+      name: "Avocado",
+      meaning:
+        "Is either hated or loved because of the special taste. You eat healthy or vegan. Stands for a special lifestyle; super-food is totally hip."
+    },
+    {
+      id: 8,
+      emoji: "🥘",
+      name: "Flat pan with Food",
+      meaning:
+        "I am going on vacation to Spain! The traditional national dish paella is prepared in a metal pan: saffron rice, vegetables and meat or fish. Can be used for a dinner with friends or cooking in general."
+    },
+    {
+      id: 9,
+      emoji: "💻",
+      name: "Laptop",
+      meaning:
+        "Emoji represents the MacBook. Can generally be used in the context of computers or work. “I have to finish this“ or “I want a new laptop“."
     }
   ];
 
