@@ -2,10 +2,11 @@ import emojipedia from "../emojipedia"
 
 const Entry = () => {
 
-
+    // Props Function 
     const Card = (props) => {
         return <div className="term">   
                     <dt>
+                        {/* <span>{props.id}</span> */}
                         <span className="emoji" role="img" aria-label="emoji.png">{props.emoji}</span>
                         <span>{props.name}</span>
                     </dt>
@@ -17,6 +18,17 @@ const Entry = () => {
     }
 
 
+    // Map Function
+    const emojiCard =(emojipedia) => {
+        return <Card 
+            // id={emojipedia.id}
+            emoji={emojipedia.emoji}
+            name={emojipedia.name}
+            meaning={emojipedia.meaning}
+        />
+    }
+    
+
 
   return (
     <div>
@@ -25,9 +37,14 @@ const Entry = () => {
         </h1>
 
         <dl className="dictionary">
+            {emojipedia.map(emojiCard)}
+
+
+
+
 
             {/* SECOND METHOD */}
-            <Card 
+            {/* <Card 
                 emoji={emojipedia[0].emoji}
                 name={emojipedia[0].name}
                 meaning={emojipedia[0].meaning}
@@ -43,7 +60,7 @@ const Entry = () => {
                 emoji={emojipedia[2].emoji}
                 name={emojipedia[2].name}
                 meaning={emojipedia[2].meaning}
-            />
+            /> */}
 
 
 
