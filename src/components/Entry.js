@@ -4,7 +4,7 @@ const Entry = () => {
 
     // Props Function 
     const Card = (props) => {
-        return <div className="term">   
+        return ( <div className="term">   
                     <dt>
                         {/* <span>{props.id}</span> */}
                         <span className="emoji" role="img" aria-label="emoji.png">{props.emoji}</span>
@@ -15,13 +15,14 @@ const Entry = () => {
                         <p>{props.meaning}</p>
                     </dd>
                 </div>
+        );
     }
 
 
     // Map Function
     const emojiCard =(emojipedia) => {
         return <Card 
-            // id={emojipedia.id}
+            key={emojipedia.id}
             emoji={emojipedia.emoji}
             name={emojipedia.name}
             meaning={emojipedia.meaning}
@@ -88,3 +89,6 @@ const Entry = () => {
 }
 
 export default Entry
+
+
+console.log(emojipedia)
