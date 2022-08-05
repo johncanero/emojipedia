@@ -1,7 +1,7 @@
 import './App.css';
 import Entry from './components/Entry';
 
-function App() {
+const App = () => {
   return (
     <div>
         <Entry />
@@ -10,3 +10,8 @@ function App() {
 }
 
 export default App;
+
+
+
+
+

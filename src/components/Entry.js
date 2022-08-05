@@ -91,4 +91,28 @@ const Entry = () => {
 export default Entry
 
 
-console.log(emojipedia)
+
+// Substring Meaning
+// const newEmojipedia = emojipedia.map(function (emojiEntry) {
+//     return emojiEntry.meaning.substring(0, 100);
+// })
+
+
+const newEmojipedia = emojipedia.map((emojiEntry) => {
+    return (
+        emojiEntry.meaning.substring(0, 100)
+    );
+});
+
+console.log(newEmojipedia)
+
+
+
+// Arrow Functions
+var numbers = [3, 56, 2, 48, 5]
+
+const newNumbers = numbers.map( (x) => {
+    return x * x;
+});
+
+console.log(newNumbers);
