@@ -81,3 +81,31 @@ dd dl {
 dd dl .term {
   margin-bottom: 1rem;
 }
+
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 767px) { 
+
+    h1 {
+      font-size: 3em;
+      text-shadow: 1px 4px 1px #7c02ff97;
+    }
+
+    html {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+      
+  .dictionary {
+    max-width: 80%;
+  }
+
+  dd dl {
+    letter-spacing: 0.33px;
+    max-width: 100%;
+  }
+
+}

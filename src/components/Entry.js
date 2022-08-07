@@ -5,16 +5,16 @@ const Entry = () => {
     // Props Function 
     const Card = (props) => {
         return ( <div className="term">   
-                    <dt>
-                        {/* <span>{props.id}</span> */}
-                        <span className="emoji" role="img" aria-label="emoji.png">{props.emoji}</span>
-                        <span>{props.name}</span>
-                    </dt>
+            <dt>
+                {/* <span>{props.id}</span> */}
+                <span className="emoji" role="img" aria-label="emoji.png">{props.emoji}</span>
+                <span>{props.name}</span>
+            </dt>
 
-                    <dd>
-                        <p>{props.meaning}</p>
-                    </dd>
-                </div>
+            <dd>
+                <p>{props.meaning}</p>
+            </dd>
+        </div>
         );
     }
 
