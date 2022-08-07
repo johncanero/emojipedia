@@ -83,6 +83,7 @@ dd dl .term {
 }
 
 
+/* Mobile */
 @media only screen 
   and (min-device-width: 375px) 
   and (max-device-width: 767px) { 
@@ -107,5 +108,38 @@ dd dl .term {
     letter-spacing: 0.33px;
     max-width: 100%;
   }
+
+}
+
+
+
+/* Tablet */
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) {
+
+
+
+    h1 {
+      font-size: 3.5em;
+      text-shadow: 1px 6px 1px #7c02ff97;
+    }
+
+    html {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+      
+    .dictionary {
+      max-width: 50%;
+    }
+
+    dd dl {
+      letter-spacing: 0.33px;
+      max-width: 100%;
+    }
+
 
 }
