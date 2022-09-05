@@ -18,7 +18,6 @@
 # Emojipedia
 
 This is the Emojipedia Project by Udemy - Web Development Bootcamp 2022
-</div>
 
 It is made with React JS utilizing the Props Feature.
 
