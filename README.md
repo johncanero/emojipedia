@@ -19,10 +19,9 @@
 
 This is the Emojipedia Project by Udemy - Web Development Bootcamp 2022
 
-It is made with React JS utilizing the Props Feature.
-
-Emojipedia Cards: Rocket, Snowboarder, Soccer Ball, Seeding,
-Beach, Dog Face, Avocado, Flat pan with Food & Laptop
+It is made with React JS utilizing the Props Feature. Emojipedia Cards: Rocket,
+Snowboarder, Soccer Ball, Seeding, Beach, Dog Face, Avocado, Flat pan with Food 
+& Laptop
 
 Emojipedia Project - Udemy - Web Development Bootcamp 2022
 </div>
