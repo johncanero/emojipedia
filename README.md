@@ -39,6 +39,6 @@ Emojipedia Project - Udemy - Web Development Bootcamp 2022
 🪟: [Desktop - Tablet - Mobile]
 
 ![Desktop View - Emojipedia](./src/images/responsive/desktopView.png)
-![Tablet View - Emojipedia](./src/images/responsive/tabletView.png)
-![Mobile View - Emojipedia](./src/images/responsive/mobileView.png)
+![Tablet View - Emojipedia](./src/images/responsive/tabletView2.png)
+![Mobile View - Emojipedia](./src/images/responsive/mobileView2.png)
 ![Code View - Emojipedia](./src/images/responsive/codeView.png)
