@@ -8,28 +8,29 @@
 } -->
 
 <div align="center">
-  <a href="https://steady-entremet-c7272f.netlify.app/" target="_blank">
-    <img alt="my-contacts" height="100" src="./src/images/responsive/phoneIcon.png"/>
+  <a href="https://inquisitive-kulfi-b8a374.netlify.app/" target="_blank">
+    <img alt="emojipedia-cards" height="100" src="./src/images/responsive/rocketEmoji.png"/>
   </a>
 </div>
 
 <div align="center">
 
-# My Contacts: Football Icons
+# Emojipedia
 
-This is the My Contacts Project by Udemy - Web Development Bootcamp 2022
+This is the Emojipedia Project by Udemy - Web Development Bootcamp 2022
 </div>
 
 It is made with React JS utilizing the Props Feature.
 
-My Contacts: Lionel Messi, Cristiano Ronaldo and Ronaldhino
+Emojipedia Cards: Rocket, Snowboarder, Soccer Ball, Seeding,
+Beach, Dog Face, Avocado, Flat pan with Food & Laptop
 
-My Contacts Project - Udemy - Web Development Bootcamp 2022
+Emojipedia Project - Udemy - Web Development Bootcamp 2022
 </div>
 
 ## Website
 
-🖥️ [https://steady-entremet-c7272f.netlify.app/]
+🖥️ [https://inquisitive-kulfi-b8a374.netlify.app/]
 
 ✍️ Project by John Cañero
 
@@ -37,7 +38,7 @@ My Contacts Project - Udemy - Web Development Bootcamp 2022
 
 🪟: [Desktop - Tablet - Mobile]
 
-![Desktop View - My Contacts](./src/images/responsive/desktopView.png)
-![Tablet View - My Contacts](./src/images/responsive/tabletView.png)
-![Mobile View - My Contacts](./src/images/responsive/mobileView.png)
-![Code View - My Contacts](./src/images/responsive/codeView.png)
+![Desktop View - Emojipedia](./src/images/responsive/desktopView.png)
+![Tablet View - Emojipedia](./src/images/responsive/tabletView.png)
+![Mobile View - Emojipedia](./src/images/responsive/mobileView.png)
+![Code View - Emojipedia](./src/images/responsive/codeView.png)
