@@ -34,7 +34,7 @@ h1 span {
   margin-bottom: 3rem;
   padding: 2rem;
   border-radius: 3px;
-  box-shadow: 0 2px 0 #ad42ff, 0 5px 20px #2aedffea;
+  box-shadow: 0 2px 0 #ad42ff, 0 5px 10px #2aedffea;
   background-color: #fff;
   transition: all 100ms ease-in-out;
 }
