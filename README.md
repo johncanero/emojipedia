@@ -8,7 +8,7 @@
 } -->
 
 <div align="center">
-  <a href="https://inquisitive-kulfi-b8a374.netlify.app/" target="_blank">
+  <a href="https://emojipedia-by-johncanero.vercel.app/" target="_blank">
     <img alt="emojipedia-cards" height="100" src="./src/images/responsive/rocketEmoji.png"/>
   </a>
 </div>
@@ -28,7 +28,7 @@ Emojipedia Project - Udemy - Web Development Bootcamp 2022
 
 ## Website
 
-🖥️ [https://inquisitive-kulfi-b8a374.netlify.app/]
+🖥️ [https://emojipedia-by-johncanero.vercel.app/]
 
 ✍️ Project by John Cañero
 
