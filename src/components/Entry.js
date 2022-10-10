@@ -19,7 +19,6 @@ const Entry = () => {
         );
     }
 
-
     // Map Function
     const emojiCard =(emojipedia) => {
         return <Card 
@@ -30,7 +29,6 @@ const Entry = () => {
         />
     }
     
-
 
   return (
     <div>
